@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/pr_22/pr_22.iml" filepath="$PROJECT_DIR$/pr_22/pr_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pr_23/pr_23.iml" filepath="$PROJECT_DIR$/pr_23/pr_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pr_23/pr_23-2/pr_23-2.iml" filepath="$PROJECT_DIR$/pr_23/pr_23-2/pr_23-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/practic_21-23.iml" filepath="$PROJECT_DIR$/practic_21-23.iml" />
     </modules>
   </component>
